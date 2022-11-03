@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=POBY&fontSize=70&animation=scaleIn)
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=smg1024)](https://github.com/smg1024)
-
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=smg1024&show_icons=true&theme=tokyonight)](https://github.com/smg1024)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smg1024&layout=compact)](https://github.com/smg1024/github-readme-stats)
