@@ -11,6 +11,7 @@
 ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 
+<image src='images/IMG_0997.JPG' width=300>
 
 
 ## Hi there 👋
@@ -31,6 +32,13 @@ System.out.print("My name is Poby");
 ```
 
 :rofl: :smirk:
+
+
+
+
+
+
+
 
 <!--
 **smg1024/smg1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
