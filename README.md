@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?section=header&type=soft&color=timeGradient&height=170&section=header&text=POBY&fontSize=50&animation=scaleIn)
 ## Welcome to Poby's Github 🐼
-
-  Born in Korea🇰🇷 Lived in Korea🇰🇷 & China🇨🇳<br>
+  <image src='images/profile.JPG' height=300><image src='images/poby2.png' height=300><br>
+  Born in Korea🇰🇷 Lived in Korea🇰🇷 & China🇨🇳<t><br>
   Undergrad @ Chungang Univ. Electronic Engineering⚡<br>
   Started learning 💻Java since 2022.10.13. @ Multicampus Back-end Developer Program<br>
   Specialized in Data Engineering and Network Managing<br><br>
@@ -11,12 +11,10 @@
 
 
 
-![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
-![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
+![C](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=C&logoColor=black)
+![자바](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 
-<!-- <image src='images/IMG_0997.JPG' width=200> -->
 
 
   
