@@ -11,7 +11,7 @@
 
 
 
-![C](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=C&logoColor=black)
+![C](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=black)
 ![자바](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 
