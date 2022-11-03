@@ -1,21 +1,23 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=POBY&fontSize=70&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?section=header&type=soft&color=timeGradient&height=170&section=header&text=POBY&fontSize=50&animation=scaleIn)
+## Welcome to Poby's Github 🐼
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=smg1024&show_icons=true&theme=tokyonight)](https://github.com/smg1024)
+  Born in Korea🇰🇷 Lived in Korea🇰🇷 & China🇨🇳<br>
+  Undergrad @ Chungang Univ. Electronic Engineering⚡<br>
+  Started learning Java since 2022.10.13. @ Multicampus Back-end Developer Program<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smg1024&layout=compact)](https://github.com/smg1024/github-readme-stats)
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=smg1024&show_icons=true&theme=tokyonight)](https://github.com/smg1024) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smg1024&layout=compact)](https://github.com/smg1024/github-readme-stats)
+
+
 
 ![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
 ![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
-![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 
-<image src='images/IMG_0997.JPG' width=300>
+<image src='images/IMG_0997.JPG' width=200>
 
 
-## Hi there 👋
-
+  
 **BOLD**<br>
 *Italic*<br>
 ~~Strikethrough~~<br>
