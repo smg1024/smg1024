@@ -6,7 +6,7 @@
   Undergrad @ Chungang Univ. Electronic Engineering⚡<br>
   Started learning 💻Java since 2022.10.13.<br>
 
-  ![Résumé](https://ridewithmin.notion.site/resume?source=copy_link)<br>
+  [Résumé](https://ridewithmin.notion.site/resume?source=copy_link)<br>
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=smg1024&show_icons=true&theme=tokyonight)](https://github.com/smg1024)<br>
 
